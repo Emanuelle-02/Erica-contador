@@ -1,2 +1,2 @@
 # ADS-DDM
-Projéto de Érica que por algum motivo o mesmo comando não envia o dela para o Git.
+Projeto da minha irmã para ela conseguir importar por aqui já que no dela não dá certo.
